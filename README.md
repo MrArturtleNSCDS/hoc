@@ -1,0 +1,16 @@
+Turtle A
+
+penup()
+right(140)
+forward(100)
+right(150)
+pendown()
+forward(200)
+right(140)
+forward(200)
+right(180)
+penup()
+forward(80)
+left(70)
+pendown()
+forward(90)
